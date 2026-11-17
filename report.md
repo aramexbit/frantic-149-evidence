@@ -1,0 +1,5 @@
+- Browser: Google Chrome 157 on Linux; extension: Silvertongue: Write Like Anyone Famous v0.2.2 (ID lanedehejpgpanageefmjbfgaeppeidl).
+- Claim 66a10cd8-6721-4c07-8e31-b10802cf06b2; X handle @brian_byar17103; reply https://x.com/brian_byar17103/status/2122501807952011306.
+- Voice/style: William Shakespeare; original input: "This is so real — 'I'm thrilled to announce' is the fastest way to sound like everyone else. Being able to pick a voice instead of defaulting to corporate-speak is exactly what replies need."; completed output: "'Tis truth itself. Cry "I'm thrilled to announce" and straightway you wear the livery of the common herd. To choose a voice of your own, and cast off that hollow corporate tongue, is the very physic our replies lacked."
+- Installation, rewriting, and publishing all worked.
+- Problem: in the first browser the store answered "already installed" while chrome://extensions did not list Silvertongue and its button never appeared in the X composer; tried reinstalling and reloading, then installed it in the user's own Chrome, where it activated and the rewrite worked.
